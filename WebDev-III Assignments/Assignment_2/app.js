@@ -28,5 +28,3 @@ app.get("/", (req, res) => {
 app.listen(3000, () => {
     console.log("Server is running on port 3000");
 });
-
-//run the assignment with node app.js ...agr nodemon download hota toh npm run dev se phel script mi likh na h "start": "node app.js"
