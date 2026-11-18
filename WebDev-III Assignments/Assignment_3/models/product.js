@@ -42,7 +42,7 @@ const product = new mongoose.Schema({
         required: true
     }
 
-}, { timestamps: true }) // automatically add 2 date fields : createdAt, updatedAt
+}, { timestamps: true }) 
 
 
 // define text index
